@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583310782777.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "371633244",
+    "id" : "ED99A4AF",
+    "lastKnownWriteTime" : 1583314708,
+    "last_content_update" : 1583314708633,
+    "path" : "~/Documents/python_work_mac/afghan/afghan.R",
+    "project_path" : "afghan.R",
+    "properties" : {
+        "cursorPosition" : "32,49",
+        "scrollLine" : "15",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

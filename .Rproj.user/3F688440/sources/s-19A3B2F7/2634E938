@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583311344055.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2634E938",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1583311344055,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1EE4CC87",
+        "caption" : "afghan",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=afghan&cache_key=1EE4CC87",
+        "displayedObservations" : 2754,
+        "environment" : "",
+        "expression" : "afghan",
+        "object" : "afghan",
+        "preview" : 0,
+        "totalObservations" : 2754,
+        "variables" : 11
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
